@@ -1,0 +1,8 @@
+
+yfinance
+pandas
+sqlite-utils
+langchain
+rich
+jina
+
